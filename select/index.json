@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "twinkle night (feat. somunia)",
+  "base_artist": "nyankobrq & yaca",
+  "createdAt": "2026-03-10T23:17:56.715946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "twinkle night (feat. somunia)",
+      "artist": "nyankobrq",
+      "has_synced": true,
+      "path": "select/01_twinkle_night_(feat._somunia)_nyankobrq.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "twinkle night (feat. somunia)",
+      "artist": "yaca",
+      "has_synced": true,
+      "path": "select/02_twinkle_night_(feat._somunia)_yaca.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "twinkle night feat. somunia",
+      "artist": "nyankobrq & yaca",
+      "has_synced": true,
+      "path": "select/03_twinkle_night_feat._somunia_nyankobrq_&_yaca.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "twinkle night (feat. somunia)",
+      "artist": "nyankobrq/yaca/somunia",
+      "has_synced": true,
+      "path": "select/04_twinkle_night_(feat._somunia)_nyankobrq_yaca_somunia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "twinkle night feat.somunia - nyankobrq & yaca  (Official Music Video)",
+      "artist": "nyankobrq",
+      "has_synced": false,
+      "path": "select/05_twinkle_night_feat.somunia_-_nyankobrq_&_yaca_(Official_Music_Video)_nyankobrq.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "twinkle night (feat. somunia)",
+      "artist": "nyankobrq & yaca",
+      "has_synced": false,
+      "path": "select/pl_01_twinkle_night_(feat._somunia)_nyankobrq_&_yaca.txt"
+    }
+  ]
+}
