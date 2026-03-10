@@ -1,4 +1,4 @@
-# Nyankobrq、YACA IN DA HOUSE – twinkle night（feat. somunia）
+# nyankobrq & yaca – twinkle night (feat. somunia)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
